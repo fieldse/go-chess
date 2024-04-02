@@ -1,0 +1,13 @@
+# Git stuff
+.git
+
+
+# VSCode
+.vscode
+*.code-workspace
+
+# Mac stuff
+.DS_Store
+
+# Miscellaneous
+notes.md
